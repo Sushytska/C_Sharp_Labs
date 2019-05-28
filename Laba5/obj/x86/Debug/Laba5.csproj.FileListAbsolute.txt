@@ -1,0 +1,6 @@
+/home/valli/Projects/C#/Laba4/bin/Debug/C1.exe
+/home/valli/Projects/C#/Laba4/bin/Debug/C1.pdb
+/home/valli/Projects/C#/Laba4/obj/x86/Debug/Laba5.csprojAssemblyReference.cache
+/home/valli/Projects/C#/Laba4/obj/x86/Debug/Laba5.csproj.CoreCompileInputs.cache
+/home/valli/Projects/C#/Laba4/obj/x86/Debug/C1.exe
+/home/valli/Projects/C#/Laba4/obj/x86/Debug/C1.pdb
